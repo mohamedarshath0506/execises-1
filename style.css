@@ -1,0 +1,12 @@
+h5, h6 {
+    text-transform: uppercase;
+}
+
+.content {
+    font-family: sans-serif;
+    line-height: 25px;
+}
+
+p a {
+    color: #0000ff;
+}
