@@ -1,12 +1,17 @@
+/** 
+*
+* style.css
+* @author - Arshath
+* @date - 13/03/2023
+**/
+
 h5, h6 {
     text-transform: uppercase;
 }
-
+a {
+    color: #0000ff;
+}
 .content {
     font-family: sans-serif;
     line-height: 25px;
-}
-
-p a {
-    color: #0000ff;
 }
